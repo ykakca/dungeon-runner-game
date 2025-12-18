@@ -1,4 +1,5 @@
 # dungeon-runner-game
+Gameplay video: https://www.youtube.com/watch?v=BBUrLz7gstU
 This is my first project in Unity, and it's a simple 2D maze-escaping game created for Android devices using Unity.
 
 This game is centered around collecting all the coins in the maze while running away from (or beating) the enemies, and reaching the exit door. 
